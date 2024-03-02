@@ -37,14 +37,11 @@ Skills : HTML5, CSS3, Javascript, Bootstrap, Reactjs, C++, Python, SQL.
 <a href="https://www.mysql.com/products/workbench/"><img src="https://cdn-icons-png.flaticon.com/128/919/919836.png" width="45"></a>&nbsp;&nbsp;
 
 
-## Badges and certificate
 
 ## 🌿 Tree Plantation Certificate - A Token of Green Contribution:
+
 Participating in Hacktoberfest 2023 has been a joyous ride, and our journey has been as diverse as the open source ecosystem itself! 🌍✨ As a participant, not only did we contribute to open source projects, but we also planted trees. Each pull request became a seed, and now we proudly hold our Tree Plantation Certificate, symbolizing our commitment to a greener planet. 🌳🌿
 
 
 ![Tree_plantation](https://github.com/urvashi-2004/Urvashisaratkar/assets/85677323/b04be7ca-a55d-42c2-9044-224ed7627380)
-
-
-![holo](https://github.com/urvashi-2004/Urvashisaratkar/assets/85677323/8e056ffb-b901-4fb4-bbeb-718fe0dc75e6)
 
