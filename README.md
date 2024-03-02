@@ -1,4 +1,4 @@
-# Hi👋, Urvashi Saratkar, I am a Frontend Developer and a final year engineering student at Rustamji Institute of Technology with a specialisation in IT.
+# Hi👋, I am Urvashi Saratkar, I am a Frontend Developer and a final year engineering student at Rustamji Institute of Technology with a specialisation in IT.
 
 I am a passionate frontend developer on a mission to craft engaging and seamless user experiences. 💻✨ With a keen eye for detail and a love for clean, maintainable code, I'm dedicated to delivering visually stunning and user-friendly applications. I love the challenge of bringing creativity and functionality together. I have found my new interest in open source. 
 
@@ -37,11 +37,10 @@ Skills : HTML5, CSS3, Javascript, Bootstrap, Reactjs, C++, Python, SQL.
 <a href="https://www.mysql.com/products/workbench/"><img src="https://cdn-icons-png.flaticon.com/128/919/919836.png" width="45"></a>&nbsp;&nbsp;
 
 
-## Badges 
+## Badges and certificate
+
+# 🌿 Tree Plantation Certificate - A Token of Green Contribution:
+Participating in Hacktoberfest 2023 has been a joyous ride, and our journey has been as diverse as the open source ecosystem itself! 🌍✨ As a participant, not only did we contribute to open source projects, but we also planted trees. Each pull request became a seed, and now we proudly hold our Tree Plantation Certificate, symbolizing our commitment to a greener planet. 🌳🌿
 
 ![holo](https://github.com/urvashi-2004/Urvashisaratkar/assets/85677323/8e056ffb-b901-4fb4-bbeb-718fe0dc75e6)
 
-
-## Top Repositories
-
-<div width="100%" align="center"><a href="https://github.com/urvashi-2004/React-counter-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=urvashi&repo=ReactCounter-App&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/urvashi-2004/Animated-Portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=urvashi&repo=Portfolio&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
