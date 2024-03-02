@@ -25,8 +25,7 @@ Skills : HTML5, CSS3, Javascript, Bootstrap, Reactjs, C++, Python
 <a href="https://www.w3.org/html/"><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="45"></a>&nbsp;&nbsp;
 <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="45"></a>&nbsp;&nbsp;
 <a href="https://www.w3schools.com/js/"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="45"></a>&nbsp;&nbsp;
-<a href="https://www.w3schools.com/bootstrap/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="45"></a>&nbsp;&nbsp;
-
+<a href="https://www.w3schools.com/bootstrap/"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" width="45"></a>&nbsp;&nbsp;
 <a href="https://www.w3schools.com/cpp/"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="45"></a>&nbsp;&nbsp;
 <a href="https://www.python.org/"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="45"></a>&nbsp;&nbsp;
 <a href="https://reactjs.org/"><img src="https://img.icons8.com/color/512/react-native.png" width="45"></a>&nbsp;&nbsp;
