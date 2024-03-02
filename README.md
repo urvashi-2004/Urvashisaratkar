@@ -17,8 +17,8 @@ Skills : HTML5, CSS3, Javascript, Bootstrap, Reactjs, C++, Python
 ## Connect with me: 
 
 <a href="https://www.linkedin.com/in/urvashi-saratkar-965153200/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="45"></a>&nbsp;&nbsp;&nbsp; 
-<a href="https://www.instagram.com/urvashisaratkar10/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png" width="45"></a>&nbsp;&nbsp;&nbsp; 
-<a href="https://github.com/urvashi-2004"><img src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png?w=1390&crop=1" width="55"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/urvashisaratkar10/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png" width="45"></a>&nbsp;&nbsp;
+<a href="https://github.com/urvashi-2004"><img src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png?w=1390&crop=1" width="45"></a>&nbsp;&nbsp;
 
 ## Languages and Tools:
 
