@@ -18,7 +18,7 @@ Skills : HTML5, CSS3, Javascript, Bootstrap, Reactjs, C++, Python
 
 <a href="https://www.linkedin.com/in/urvashi-saratkar-965153200/"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="45">
 </a>&nbsp;&nbsp;&nbsp; 
-<a href="https://github.com/urvashi-2004"><img src="<i class="fa-brands fa-github"></i>" width="45"></a>
+<a href="https://github.com/urvashi-2004"><i class="fa-brands fa-github"></i>"</a>
 
 ## Languages and Tools:
 
