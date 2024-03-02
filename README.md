@@ -1,11 +1,13 @@
-# Hi👋, I am Urvashi Saratkar, I am a Frontend Developer and a final year engineering student at Rustamji Institute of Technology with a specialisation in IT.
+# Hi👋, I am Urvashi Saratkar, I am a Frontend Developer.
 
-I am a passionate frontend developer on a mission to craft engaging and seamless user experiences. 💻✨ With a keen eye for detail and a love for clean, maintainable code, I'm dedicated to delivering visually stunning and user-friendly applications. I love the challenge of bringing creativity and functionality together. I have found my new interest in open source. 
+I am a final year engineering student at Rustamji Institute of Technology with a specialisation in IT and a passionate frontend developer on a mission to craft engaging and seamless user experiences. 💻✨ With a keen eye for detail and a love for clean, maintainable code, I'm dedicated to delivering visually stunning and user-friendly applications. I love the challenge of bringing creativity and functionality together. I have found my new interest in open source. 
+
 
 ![Urvashi Saratkar](https://github.com/urvashi-2004/Urvashisaratkar/assets/85677323/be187188-8a71-49ab-9681-832b364b1524)
 
 
 Skills : HTML5, CSS3, Javascript, Bootstrap, Reactjs, C++, Python, SQL.
+
 
 * 🏗️ I am currently working on my personal projects to upskill myself in Reactjs.
 * 🤍 Love to explore new things and technolgies.
