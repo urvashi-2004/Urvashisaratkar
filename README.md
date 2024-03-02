@@ -5,7 +5,7 @@ I am a passionate frontend developer on a mission to craft engaging and seamless
 ![Urvashi Saratkar](https://github.com/urvashi-2004/Urvashisaratkar/assets/85677323/be187188-8a71-49ab-9681-832b364b1524)
 
 
-Skills : HTML5, CSS3, Javascript, Bootstrap, Reactjs, C++, Python
+Skills : HTML5, CSS3, Javascript, Bootstrap, Reactjs, C++, Python, SQL.
 
 * 🏗️ I am currently working on my personal projects to upskill myself in Reactjs.
 * 🤍 Love to explore new things and technolgies.
@@ -33,3 +33,6 @@ Skills : HTML5, CSS3, Javascript, Bootstrap, Reactjs, C++, Python
 <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/512/git.png" width="45"></a>&nbsp;&nbsp;
 <a href="https://github.com/"><img src="https://img.icons8.com/glyph-neue/512/github.png" width="45"></a>&nbsp;&nbsp;
 <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/512/visual-studio-code-2019.png" width="45"></a>&nbsp;&nbsp;
+<a href="https://www.mysql.com/products/workbench/"><img src="https://cdn-icons-png.flaticon.com/128/919/919836.png" width="45"></a>&nbsp;&nbsp;
+
+
