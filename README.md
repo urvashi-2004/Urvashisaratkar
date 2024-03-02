@@ -29,7 +29,7 @@ Skills : HTML5, CSS3, Javascript, Bootstrap, Reactjs, C++, Python
 <a href="https://reactjs.org/"><img src="https://img.icons8.com/color/512/react-native.png" width="45"></a>&nbsp;&nbsp;
 <a href="https://www.w3schools.com/cpp/"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="45"></a>&nbsp;&nbsp;
 <a href="https://www.python.org/"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="45"></a>&nbsp;&nbsp;
+<a href="https://www.w3schools.com/sql/"><img src="https://cdn-icons-png.flaticon.com/128/4492/4492311.png" width="50"></a>&nbsp;&nbsp;
 <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/512/git.png" width="45"></a>&nbsp;&nbsp;
 <a href="https://github.com/"><img src="https://img.icons8.com/glyph-neue/512/github.png" width="45"></a>&nbsp;&nbsp;
 <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/512/visual-studio-code-2019.png" width="45"></a>&nbsp;&nbsp;
-<a href="https://www.w3schools.com/sql/"><img src="https://cdn-icons-png.flaticon.com/128/4492/4492311.png" width="45"></a>&nbsp;&nbsp;
