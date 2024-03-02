@@ -20,6 +20,7 @@ Skills : HTML5, CSS3, Javascript, Bootstrap, Reactjs, C++, Python, SQL.
 <a href="https://www.instagram.com/urvashisaratkar10/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png" width="45"></a>&nbsp;&nbsp;
 <a href="https://github.com/urvashi-2004"><img src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png?w=1390&crop=1" width="50"></a>&nbsp;&nbsp;
 
+
 ## Languages and Tools:
 
 <a href="https://www.w3.org/html/"><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="45"></a>&nbsp;&nbsp;
@@ -36,3 +37,11 @@ Skills : HTML5, CSS3, Javascript, Bootstrap, Reactjs, C++, Python, SQL.
 <a href="https://www.mysql.com/products/workbench/"><img src="https://cdn-icons-png.flaticon.com/128/919/919836.png" width="45"></a>&nbsp;&nbsp;
 
 
+## Badges 
+
+![holo](https://github.com/urvashi-2004/Urvashisaratkar/assets/85677323/8e056ffb-b901-4fb4-bbeb-718fe0dc75e6)
+
+
+## Top Repositories
+
+<div width="100%" align="center"><a href="https://github.com/urvashi-2004/React-counter-app" align="left"><a href="https://github.com/urvashi-2004/Animated-Portfolio" align="right"></a></div><br /><br /><br /><br /><br /><br /><br />
